@@ -12,5 +12,6 @@ public class Leccion1 {
 
     public static void main(String[] args) {
         System.out.println("Hello Galaxy!");
+        System.out.println("Welcome to the jungle!");
     }
 }
